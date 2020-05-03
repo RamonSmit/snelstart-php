@@ -1,5 +1,5 @@
 {
-    "name":"iwd-nl/snelstart-php",
+    "name":"daltcore/snelstart-php",
     "license": "GPL-3.0-or-later",
     "type": "library",
     "description": "Snelstart API toegepast in PHP",
@@ -11,6 +11,10 @@
         {
             "name": "IntoWebDevelopment",
             "email": "manuel@mail.iwdev.nl"
+        },
+        {
+            "name": "DALTCORE",
+            "email": "ramon@daltcore.com"
         }
     ],
     "require": {
